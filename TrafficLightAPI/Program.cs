@@ -6,6 +6,8 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using TrafficLightAPI.Models;
+using TrafficLightAPI.Services;
 
 namespace TrafficLightAPI
 {
